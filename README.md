@@ -9,3 +9,5 @@
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 
 * [MNIST and Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk)
+
+* [Data Cleaning] (https://realpython.com/python-data-cleaning-numpy-pandas/)
