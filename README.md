@@ -47,12 +47,12 @@ https://github.com/rasbt/data-science-tutorial
 https://github.com/mwaskom/Psych216
 
 ## AI in Neuroimaging
-  ## Blogs and Notebooks:
+  ### Blogs and Notebooks:
     https://www.ohbmbrainmappingblog.com/blog/ohbm-ondemand-how-to-machine-learning-in-neuroimaging
     https://github.com/neuroailab/psych253/commit/9fa49b35a63bf0aca52ea0e0d8ceda7440de0be2
     https://brainhack101.github.io/IntroDL/
     https://neurohackademy.org/course/machine-learning-in-neuroimaging/
-  ## Papers:
+  ### Papers:
     https://www.frontiersin.org/articles/10.3389/fninf.2014.00014/full
     https://www.sciencedirect.com/science/article/pii/B9780128161791000177
     https://www.frontiersin.org/articles/10.3389/fneur.2019.00869/full
