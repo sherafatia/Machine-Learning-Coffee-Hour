@@ -24,16 +24,16 @@
 ## Bootcamps and Workshops:
 * [Physics ML bootcamp](https://colab.research.google.com/drive/1kj1O0zavMnfJUy-8SVZj6U7HUxuWeOvG#scrollTo=MFRaS2BW1RYF)
 
-## Link to our notebook: 
+## Link to our Notebook: 
 https://colab.research.google.com/drive/1xoZnDLO37IygyHKBT3endeACih9NtfFh#scrollTo=5RrPOFheooW-
 
-## Fun ML/stats visualization websites: 
+## Fun ML/stats Visualization Websites: 
 https://vas3k.com/blog/machine_learning/
 
-## Python courses: 
+## Python Courses: 
 https://www.kaggle.com/learn/python
 
-## Other courses:
+## Other Courses:
 https://www.cse.wustl.edu/~garnett/cse515t/fall_2019/
 https://youtu.be/mbyG85GZ0PI (ML course videos)
 AI course: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm
@@ -46,7 +46,15 @@ https://github.com/rasbt/data-science-tutorial/blob/master/code/summary-stats.ip
 https://github.com/rasbt/data-science-tutorial
 https://github.com/mwaskom/Psych216
 
+## AI in Neuroimaging Blogs and Notebooks:
+https://www.ohbmbrainmappingblog.com/blog/ohbm-ondemand-how-to-machine-learning-in-neuroimaging
+https://github.com/neuroailab/psych253/commit/9fa49b35a63bf0aca52ea0e0d8ceda7440de0be2
+https://brainhack101.github.io/IntroDL/
+https://neurohackademy.org/course/machine-learning-in-neuroimaging/
 
-
+## AI in Neuroimaging Papers:
+https://www.frontiersin.org/articles/10.3389/fninf.2014.00014/full
+https://www.sciencedirect.com/science/article/pii/B9780128161791000177
+https://www.frontiersin.org/articles/10.3389/fneur.2019.00869/full
 
 
