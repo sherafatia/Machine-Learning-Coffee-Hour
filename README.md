@@ -53,5 +53,14 @@
 - https://pubmed.ncbi.nlm.nih.gov/31173849/
 - https://iopscience.iop.org/article/10.1088/1741-2552/ab9064
 - https://link.springer.com/article/10.1007/s11682-019-00239-9
+- https://www.sciencedirect.com/science/article/pii/S1053811910014163
+- https://www.sciencedirect.com/science/article/pii/S1053811910010657
+- https://pubmed.ncbi.nlm.nih.gov/10678835/
+- https://www.frontiersin.org/articles/10.3389/fnins.2018.01018/full
+- https://www.sciencedirect.com/science/article/pii/S2451902219303040
+- https://ieeexplore.ieee.org/document/6494687
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4354352/
+- https://academic.oup.com/cercor/article/28/12/4136/4560155
+- https://www.sciencedirect.com/science/article/pii/S105381191001414X?via%3Dihub
 
 
