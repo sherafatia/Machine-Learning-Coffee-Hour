@@ -25,6 +25,7 @@
 
 ## Python Courses: 
 - https://www.kaggle.com/learn/python
+- https://www.coursera.org/learn/machine-learning-with-python
 
 ## Other Courses:
 - https://www.cse.wustl.edu/~garnett/cse515t/fall_2019/
@@ -49,5 +50,8 @@
 - https://www.frontiersin.org/articles/10.3389/fninf.2014.00014/full
 - https://www.sciencedirect.com/science/article/pii/B9780128161791000177
 - https://www.frontiersin.org/articles/10.3389/fneur.2019.00869/full
+- https://pubmed.ncbi.nlm.nih.gov/31173849/
+- https://iopscience.iop.org/article/10.1088/1741-2552/ab9064
+- https://link.springer.com/article/10.1007/s11682-019-00239-9
 
 
