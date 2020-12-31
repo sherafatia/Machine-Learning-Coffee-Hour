@@ -40,7 +40,7 @@
 - https://github.com/rasbt/data-science-tutorial
 - https://github.com/mwaskom/Psych216
 
-## AI in Neuroimaging
+## ML and AI in Neuroimaging
 ### Blogs and Notebooks:
 - https://www.ohbmbrainmappingblog.com/blog/ohbm-ondemand-how-to-machine-learning-in-neuroimaging
 - https://github.com/neuroailab/psych253/commit/9fa49b35a63bf0aca52ea0e0d8ceda7440de0be2
