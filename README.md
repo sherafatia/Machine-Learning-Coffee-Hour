@@ -57,7 +57,7 @@
 - [Encoding and decoding in fMRI](https://www.sciencedirect.com/science/article/pii/S1053811910010657)
 - [Sparse coding and decorrelation in primary visual cortex during natural vision](https://pubmed.ncbi.nlm.nih.gov/10678835/)
 - [Topological Properties of Resting-State fMRI Functional Networks Improve Machine Learning-Based Autism Classification](https://www.frontiersin.org/articles/10.3389/fnins.2018.01018/full)
-- [Machine Learning With Neuroimaging: Evaluating Its Applications in Psychiatry](https://www.sciencedirect.com/science/article/pii/S2451902219303040))
+- [Machine Learning With Neuroimaging: Evaluating Its Applications in Psychiatry](https://www.sciencedirect.com/science/article/pii/S2451902219303040)
 - [Machine Learning with Brain Graphs: Predictive Modeling Approaches for Functional Imaging in Systems Neuroscience](https://ieeexplore.ieee.org/document/6494687)
 - [Predicting long-term outcome of Internet-delivered cognitive behavior therapy for social anxiety disorder using fMRI and support vector machine learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4354352/)
 - [Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision](https://academic.oup.com/cercor/article/28/12/4136/4560155)
