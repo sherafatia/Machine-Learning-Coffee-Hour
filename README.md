@@ -62,5 +62,6 @@
 - [Predicting long-term outcome of Internet-delivered cognitive behavior therapy for social anxiety disorder using fMRI and support vector machine learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4354352/)
 - [Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision](https://academic.oup.com/cercor/article/28/12/4136/4560155)
 - [Performance comparison of machine learning algorithms and number of independent components used in fMRI decoding of belief vs. disbelief](https://www.sciencedirect.com/science/article/pii/S105381191001414X?via%3Dihub)
+- [Machine translation of cortical activity to text with an encoder–decoder framework](https://www.nature.com/articles/s41593-020-0608-8#Sec8)
 
 
