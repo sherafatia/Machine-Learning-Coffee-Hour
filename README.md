@@ -33,13 +33,14 @@ We welcome diversity of race, culture, gender, identity, ability, orientation, a
 - https://vas3k.com/blog/machine_learning/
 
 ## Python Courses: 
-- https://www.kaggle.com/learn/python
-- https://www.coursera.org/learn/machine-learning-with-python
+- [Python - Kaggle](https://www.kaggle.com/learn/python)
+- [Machine Learning with Python - Coursera](https://www.coursera.org/learn/machine-learning-with-python)
+- [Introduction to Computer Science and Programming in Python - MIT](https://www.youtube.com/watch?v=nykOeWgQcHM)
 
 ## Other Courses:
-- https://www.cse.wustl.edu/~garnett/cse515t/fall_2019/
-- https://youtu.be/mbyG85GZ0PI (ML course videos)
-- [AI course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
+- [Bayesian Methods in Machine Learning - Washingon University in St. Louis](https://www.cse.wustl.edu/~garnett/cse515t/fall_2019/)
+- [Learning from Data - Caltech](https://youtu.be/mbyG85GZ0PI)
+- [Artificial Intelligence - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
 
 ## Stats Notebooks:
 - https://ipython-books.github.io/chapter-7-statistical-data-analysis/
