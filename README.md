@@ -1,4 +1,16 @@
 # Machine-Learning-Coffee-Hour
+This club aims to review a series of courses, online tools, and papers for an in-depth understanding of the applications of ML and DL in neural signal processing.
+
+Our club was born in Culver Lab at Washington University in St. Louis on February 21, 2020. We meet virtually on Fridays 3-4 pm CST.
+For joining us as a member or presenter please contact me at: arefeh at wustl dot edu.
+
+We welcome diversity of race, culture, gender, identity, ability, orientation, and background.
+
+## Link to our Notebook: 
+- https://colab.research.google.com/drive/1xoZnDLO37IygyHKBT3endeACih9NtfFh#scrollTo=5RrPOFheooW-
+
+## Link to our Schedule:
+- https://docs.google.com/spreadsheets/d/1_h0kwplsScOmBedVaO8hnLBZwreK09QHLLzjE6SV2Lk/edit?usp=sharing
 
 ## Helpful Links for Machine Learning with Python
 
@@ -16,9 +28,6 @@
 
 ## Bootcamps and Workshops:
 - [Physics ML bootcamp](https://colab.research.google.com/drive/1kj1O0zavMnfJUy-8SVZj6U7HUxuWeOvG#scrollTo=MFRaS2BW1RYF)
-
-## Link to our Notebook: 
-- https://colab.research.google.com/drive/1xoZnDLO37IygyHKBT3endeACih9NtfFh#scrollTo=5RrPOFheooW-
 
 ## Fun ML/stats Visualization Websites: 
 - https://vas3k.com/blog/machine_learning/
