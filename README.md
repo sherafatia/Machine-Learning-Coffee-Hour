@@ -1,7 +1,7 @@
 # Machine-Learning-Coffee-Hour
 This club aims to review a series of courses, online tools, and papers for an in-depth understanding of the applications of ML and DL in neural signal processing.
 
-Our club was born in Culver Lab at Washington University in St. Louis on February 21, 2020. We meet virtually on Fridays 3-4 pm CST.
+Our club was born in Culver Lab at Washington University in St. Louis on February 21, 2020.
 For joining us as a member or presenter please contact me at: arefeh at wustl dot edu.
 
 We welcome diversity of race, culture, gender, identity, ability, orientation, and background.
