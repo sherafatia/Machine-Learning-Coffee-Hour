@@ -35,7 +35,7 @@ We welcome diversity of race, culture, gender, identity, ability, orientation, a
 ## Python Courses: 
 - [Python - Kaggle](https://www.kaggle.com/learn/python)
 - [Machine Learning with Python - Coursera](https://www.coursera.org/learn/machine-learning-with-python)
-- [Introduction to Computer Science and Programming in Python - MIT](https://www.youtube.com/watch?v=nykOeWgQcHM)
+- [Introduction to Computer Science and Programming in Python - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
 ## Other Courses:
 - [Bayesian Methods in Machine Learning - Washingon University in St. Louis](https://www.cse.wustl.edu/~garnett/cse515t/fall_2019/)
