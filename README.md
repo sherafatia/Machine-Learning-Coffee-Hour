@@ -12,11 +12,10 @@ We welcome diversity of race, culture, gender, identity, ability, orientation, a
 ## Link to our Schedule:
 - https://docs.google.com/spreadsheets/d/1_h0kwplsScOmBedVaO8hnLBZwreK09QHLLzjE6SV2Lk/edit?usp=sharing
 
-## Helpful Links for Machine Learning with Python
+## Helpful Links for Machine Learning and Deep Learning with Python
 
 - [Scikit-Learn](http://scikit-learn.org/stable/documentation.html)
 - [Machine Learning with Python Cookbook](https://www.safaribooksonline.com/library/view/machine-learning-with/9781491989371/)
-- [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 - [MNIST and Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk)
 - [Data Cleaning](https://realpython.com/python-data-cleaning-numpy-pandas/)
@@ -36,6 +35,14 @@ We welcome diversity of race, culture, gender, identity, ability, orientation, a
 - [Python - Kaggle](https://www.kaggle.com/learn/python)
 - [Machine Learning with Python - Coursera](https://www.coursera.org/learn/machine-learning-with-python)
 - [Introduction to Computer Science and Programming in Python - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+
+## Useful links for learning Python: 
+- https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Hello,_World
+- https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Who_Goes_There%3F
+- https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
+- https://en.wikibooks.org/wiki/Python_Programming/Variables_and_Strings
+- https://en.wikibooks.org/wiki/Python_Programming/Variables_and_Strings#Combining_Numbers_and_Strings
+- https://numpy.org/doc/stable/index.html
 
 ## Other Courses:
 - [Bayesian Methods in Machine Learning - Washingon University in St. Louis](https://www.cse.wustl.edu/~garnett/cse515t/fall_2019/)
