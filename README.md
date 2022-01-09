@@ -23,7 +23,7 @@ We welcome diversity of race, culture, gender, identity, ability, orientation, a
 - https://work.caltech.edu/telecourse.html
 - https://www.coursera.org/learn/machine-learning
 - https://www.coursera.org/specializations/deep-learning
-
+- https://www.cs.cornell.edu/courses/cs4780/2018sp/
 
 ## Bootcamps and Workshops:
 - [Physics ML bootcamp](https://colab.research.google.com/drive/1kj1O0zavMnfJUy-8SVZj6U7HUxuWeOvG#scrollTo=MFRaS2BW1RYF)
